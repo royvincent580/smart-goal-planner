@@ -4,7 +4,7 @@
       "id": "1",
       "name": "Emergency Fund",
       "targetAmount": 10000,
-      "savedAmount": 2500,
+      "savedAmount": 10000,
       "category": "Savings",
       "deadline": "2024-12-31",
       "createdAt": "2023-11-01"
@@ -17,6 +17,15 @@
       "category": "Travel",
       "deadline": "2024-06-30",
       "createdAt": "2023-11-15"
+    },
+    {
+      "id": "25d9",
+      "name": "glind",
+      "targetAmount": 600,
+      "savedAmount": "0403",
+      "category": "Savings",
+      "deadline": "2025-07-18",
+      "createdAt": "2025-07-21"
     }
   ]
 }
